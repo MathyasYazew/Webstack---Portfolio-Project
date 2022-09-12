@@ -19,11 +19,13 @@ Express(.js) - Node.js web framework
 React(.js) - a client-side JavaScript framework
 
 Node(.js) - the premier Javascript web server
-_______________________________________
-
+_
 I created this entire application from scratch while utilizing sophisticated MongoDB queries, models, and schema. It also has the following characteristics:
 
 -Different user interfaces for admins, doctors, and users.
+
 -Authentication and password hashing using JWT (JSON Web Token).
+
 -Redux Toolkit, Ant Design library for UI Components,
+
 -Functionality for Users, Admins, and Doctors to Receive Notifications.
