@@ -11,14 +11,15 @@ You can quickly schedule appointments with patients using appointment scheduling
 Technologies
 I have utilized various technologies to create Front-End and Back-End programming languages, frameworks, and tools:
 
-___
+
 MongoDB - For Document database
-___
+
 Express(.js) - Node.js web framework
-___
+
 React(.js) - a client-side JavaScript framework
-___
+
 Node(.js) - the premier Javascript web server
+_______________________________________
 
 I created this entire application from scratch while utilizing sophisticated MongoDB queries, models, and schema. It also has the following characteristics:
 
